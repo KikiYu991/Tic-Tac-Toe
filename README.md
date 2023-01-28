@@ -53,5 +53,8 @@ This  game comes with an user interface and game options using mouse & keyboard 
 
 ### Run the Game 
 
+  Use dist - Game.exe
+  
+
   $python Game.py
 
