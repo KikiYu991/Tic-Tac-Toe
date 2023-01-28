@@ -1,7 +1,7 @@
 <h1 align=center> TicTacToe-Game </h1>
 <h6 align=center> Using Minimax Algorithm and OpenCV + Python </h6>
 
-## Table of Content 🤖
+## Table of Content 
 - [TicTacToe-Game](#tictactoe-game)
 - [Structure of the application](#structure-of-the-application)
 - [Features](#features--)
